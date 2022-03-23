@@ -1,2 +1,2 @@
-http://localhost:8888/notebooks/Predictive_Analysis.ipynb#Multiple_Linear_Regression
+https://github.com/anair-hub/test/blob/main/Predictive_Analysis.md#Multiple_Linear_Regression
 
